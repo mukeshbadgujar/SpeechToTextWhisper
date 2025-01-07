@@ -26,3 +26,35 @@ To run the project, you can use the following command:
 streamlit run SpeechToText.py
 ```
 
+## Images:
+![img.png](imgs/img.png)
+
+![img_1.png](imgs/img_1.png)
+
+![img_2.png](imgs/img_2.png)
+
+![img_3.png](imgs/img_3.png)
+
+
+# SpeechToTextWhisper 🎙️🔊📝  
+
+SpeechToTextWhisper is a powerful, open-source speech-to-text application built using OpenAI's state-of-the-art Whisper model. This project enables accurate and efficient transcription of audio into text, making it ideal for various applications, such as:  
+
+- Content Creation: Automate transcription for podcasts, interviews, and video content.  
+- Accessibility: Generate subtitles or provide written formats for audio content.  
+- Language Learning: Enhance understanding by converting spoken lessons into written material.  
+- Research: Analyze and extract insights from recorded conversations or presentations.  
+
+## Features  
+
+- Free and Open Source: Leverages the free OpenAI Whisper model for transcription.  
+- Cross-Platform: Works seamlessly on both Linux and Windows.  
+- Multiple Audio Formats: Supports various audio formats such as MP3, WAV, and more.  
+- Highly Accurate: Whisper’s cutting-edge AI ensures precise transcription, even in noisy environments.  
+- Multi-Language Support: Transcribe audio in multiple languages with Whisper's multilingual capability.  
+- Customizable: Tailor it to your specific needs with simple modifications.  
+
+## Get Started  
+
+Check out the repository to explore the source code, installation instructions, and usage examples.  
+Contributions and feedback are welcome!  
