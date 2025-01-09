@@ -3,6 +3,12 @@
 ## OpenAI Whisper
 OpenAI Whisper is a new API that converts speech to text. It is designed to be fast, accurate, and secure. It is built on OpenAI's GPT-3 technology, which is a state-of-the-art language model that can generate human-like text. OpenAI Whisper is designed to be easy to use and integrate into any application. It can be used for a wide range of applications, including voice assistants, transcription services, and more.
 
+
+# Try Out on Streamlit
+[Open Application in Streamlit](https://whisperspeechtotext.streamlit.app/)
+_Note: Try to find out the Login Creds in this repo, it's your task..._
+
+
 ## Implementation
 This project is an implementation of OpenAI Whisper using Python. It uses the OpenAI API to convert speech to text. The project is built using the Flask web framework and the OpenAI Python library. The project includes a simple web interface that allows users to record audio and convert it to text using OpenAI Whisper.
 
